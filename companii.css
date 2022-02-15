@@ -1,0 +1,33 @@
+.container .here{
+	text-align: justify;
+	padding: 0 50px 10 50px;
+	font-size: 25px !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.section-content{
+		padding: 10px !important;
+	}
+	.container .here{
+		text-align: justify;
+		padding: 0 10px 10 10px im !important;
+		font-size: 20px !important;
+	}
+	.parent{
+		margin:0 auto !important;
+		margin-top:15%;
+	}
+	.bigletter{
+		font-size: 50px !important;
+	}
+  }
+
+  .parent {
+	width: 300px;
+	height: 100px;
+	margin:0 auto;
+	margin-top:5%;
+	
+  }
+ 
