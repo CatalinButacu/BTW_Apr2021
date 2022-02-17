@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+    .banner-caption
+    {
+        display:none;
+    }
+    .section-title{
+        font-size: 30px!important;
+        font-weight: bold!important;
+    }
+    .section-content{
+        padding: 0 20px !important;
+    }
+    .here{
+    font-size: 20px!important;
+    }
+    .testimonials-statistics{
+        position: relative!important;
+        top: 5em;
+        left: -2em;
+        display: flex!important;
+        flex-direction: row!important;
+        flex-wrap: wrap!important;
+    }
+    }
+    
